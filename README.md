@@ -155,6 +155,7 @@ This is the first work to correct hallucination in multimodal large language mod
 ### Multi-modal O1 Development
 |  Title  |   Venue  |   Date   |   Code   |   Page   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![GitHub Repo stars](https://img.shields.io/github/stars/ModalMinds/MM-EUREKA?style=social) <br> [**MM-EUREKA: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning**](https://github.com/ModalMinds/MM-EUREKA/blob/main/MM_Eureka_paper.pdf) <br> | github | 2025-03 | [Github](https://github.com/ModalMinds/MM-EUREKA) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/TideDra/lmm-r1?style=social) <br> [**LMM-R1**](https://github.com/TideDra/lmm-r1) <br> | github | 2025-02 | [Github](https://github.com/TideDra/lmm-r1) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/Wang-Xiaodong1899/Open-R1-Video?style=social) <br> [**Open-R1-Video**](https://github.com/Wang-Xiaodong1899/Open-R1-Video) <br> | github | 2025-02 | [Github](https://github.com/Wang-Xiaodong1899/Open-R1-Video) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/om-ai-lab/VLM-R1?style=social) <br> [**VLM-R1: A stable and generalizable R1-style Large Vision-Language Model**](https://github.com/om-ai-lab/VLM-R1) <br> | github | 2025-02 | [Github](https://github.com/om-ai-lab/VLM-R1) | - |
